@@ -20,6 +20,7 @@ Analyzed job listings in Germany to identify **in-demand skills, top companies, 
 - Data visualization with matplotlib
 
 **Sample Charts:**
+
 ![Top Skills](charts/top_3_skills.png)
 ![Job Titles](charts/top_job_titles.png)
 ![Jobs by Location](charts/jobs_by_location.png)
@@ -44,6 +45,7 @@ Built a **full SEO analytics pipeline** to track website performance metrics lik
 - CTR and ranking improvements
 
 **Sample Charts:**
+
 ![Clicks Over Time](charts/clicks_over_time.png)
 ![CTR Trend](charts/CTR_Trend.png)
 ![Average Ranking Over Time](charts/Ranking_Trend.png)
@@ -61,6 +63,7 @@ Analyzed sales data from an e-commerce platform using **SQL and Python**, uncove
 - Trend detection and business insights
 
 **Sample Charts:**
+
 ![Revenue Trends](charts/Chart.png)
 
 ---
