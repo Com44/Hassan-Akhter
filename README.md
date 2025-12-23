@@ -4,7 +4,7 @@ I'm a **Master’s student in Germany** with 3+ years of international experienc
 
 Currently, I’m expanding into **Data Science and Machine Learning**, developing skills in **Python, SQL, data analytics, and AI applications**. I aim to combine my marketing and data preparation experience with technical expertise to contribute to impactful, data-driven projects.
 
-I am open to Working Student positions, internships, or entry-level roles in ** Data Science, AI/ML, SEO, Digital Marketing, or Business Intelligence.**.
+I am open to Working Student positions, internships, or entry-level roles in ** Data Science, AI/ML, SEO, Digital Marketing, or Business Intelligence**.
 
 ---
 
